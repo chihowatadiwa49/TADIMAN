@@ -1,2 +1,2 @@
 # TADIMAN
-WhatsApp boy
+WhatsApp bot
